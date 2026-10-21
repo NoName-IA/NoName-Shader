@@ -12,3 +12,6 @@ desktop.ini
 # editores
 .vscode/
 .idea/
+
+# código fuente del shader: en el repo va solo dentro de NoName-Shader-v1.0.zip
+shaders/
