@@ -1,6 +1,3 @@
-# el zip para instalar se sube como Release, no al repo
-*.zip
-
 # copias de seguridad y temporales
 *.bak
 *.bak[0-9]*

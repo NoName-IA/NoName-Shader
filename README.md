@@ -10,7 +10,7 @@ Todo el menú está en español.
 
 ## Instalación
 
-1. Descarga el zip desde **[Releases](../../releases)**. No lo descomprimas.
+1. Descarga **[NoName-Shader-v1.0.zip](../../raw/main/NoName-Shader-v1.0.zip)**. No lo descomprimas.
 2. Pégalo en la carpeta de shaders: pulsa `Win + R`, escribe `%appdata%\.minecraft\shaderpacks` y Enter.
 3. En el juego ve a *Opciones → Calidad de video → Shaders*, elige **NoName-Shader** y listo.
 
