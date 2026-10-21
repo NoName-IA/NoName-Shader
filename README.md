@@ -6,7 +6,7 @@ porque no me hago un shader? y he aqui mi shader, inspirado en muchos de la comu
 espero que disfrutes mucho este shader !! 
 Todo el menú está en español.
 
-![Atardecer sobre una aldea](fotos/superficie/atardecer-aldea.png)
+![Atardecer sobre una aldea](fotos/superficie/atardecer-aldea.jpg)
 
 ---
 
@@ -16,40 +16,40 @@ Todo el menú está en español.
 
 | | |
 |---|---|
-| ![Atardecer sobre una aldea](fotos/superficie/atardecer-aldea.png) | ![Atardecer sobre una mansión](fotos/superficie/atardecer-mansion.png) |
+| ![Atardecer sobre una aldea](fotos/superficie/atardecer-aldea.jpg) | ![Atardecer sobre una mansión](fotos/superficie/atardecer-mansion.jpg) |
 | **Atardecer** con el dramatismo del cielo y las casas iluminadas por dentro | Nubes 3D teñidas de rosa y violeta al caer el sol |
-| ![La luna reflejada en el agua](fotos/superficie/luna-sobre-el-agua.png) | ![El sol entre la lluvia](fotos/superficie/sol-con-lluvia.png) |
+| ![La luna reflejada en el agua](fotos/superficie/luna-sobre-el-agua.jpg) | ![El sol entre la lluvia](fotos/superficie/sol-con-lluvia.jpg) |
 | **Luna** con halo y su camino de luz sobre el agua | **Sol con lluvia**: pálido tras las nubes, con el suelo mojado reflejando la luz |
-| ![Tormenta con relámpago](fotos/superficie/tormenta-relampago.png) | ![Cuevas vistas desde arriba](fotos/superficie/cuevas-desde-arriba.png) |
+| ![Tormenta con relámpago](fotos/superficie/tormenta-relampago.jpg) | ![Cuevas vistas desde arriba](fotos/superficie/cuevas-desde-arriba.jpg) |
 | **Tormenta**: nubes iluminadas por un relámpago | Cuevas con vegetación, lava y amatista |
-| ![Cueva con minerales](fotos/superficie/cueva-con-minerales.png) | |
+| ![Cueva con minerales](fotos/superficie/cueva-con-minerales.jpg) | |
 | **Minerales** con brillo propio y redstone en una cueva | |
 
 ### Interiores y sombras
 
 | | |
 |---|---|
-| ![Sombras de ventanas en un pasillo](fotos/interiores/pasillo-sombras-de-ventanas.png) | ![Bloques de minerales y un faro](fotos/interiores/bloques-de-minerales-y-faro.png) |
+| ![Sombras de ventanas en un pasillo](fotos/interiores/pasillo-sombras-de-ventanas.jpg) | ![Bloques de minerales y un faro](fotos/interiores/bloques-de-minerales-y-faro.jpg) |
 | **Sombras** de las ventanas en el suelo y la pared, y vidrios tintados al fondo | **Bloques de minerales** pulidos y el rayo de un faro |
-| ![Sala de estar](fotos/interiores/sala.png) | ![Baño de cuarzo](fotos/interiores/bano-de-cuarzo.png) |
+| ![Sala de estar](fotos/interiores/sala.jpg) | ![Baño de cuarzo](fotos/interiores/bano-de-cuarzo.jpg) |
 | Interior iluminado con luz de bloques | Baño de **cuarzo** con su brillo pulido |
 
 ### Nether
 
 | | |
 |---|---|
-| ![Mar de lava del Nether](fotos/nether/mar-de-lava.png) | ![Bosque distorsionado](fotos/nether/bosque-distorsionado.png) |
+| ![Mar de lava del Nether](fotos/nether/mar-de-lava.jpg) | ![Bosque distorsionado](fotos/nether/bosque-distorsionado.jpg) |
 | Mar de lava con ondas de calor y el portal del Nether animado | Bosque distorsionado con su niebla verde azulada |
 
 ### End
 
 | | |
 |---|---|
-| ![Portal del End](fotos/end/portal-del-end.png) | ![Isla del End con los cristales](fotos/end/isla-y-cristales.png) |
+| ![Portal del End](fotos/end/portal-del-end.jpg) | ![Isla del End con los cristales](fotos/end/isla-y-cristales.jpg) |
 | **Portal del End** mostrando la isla del End al otro lado | La isla central con los rayos de los cristales del End |
-| ![Dragón y pilares](fotos/end/dragon-y-pilares.png) | ![Ciudad del End](fotos/end/ciudad-del-end.png) |
+| ![Dragón y pilares](fotos/end/dragon-y-pilares.jpg) | ![Ciudad del End](fotos/end/ciudad-del-end.jpg) |
 | El dragón entre los pilares bajo el cielo con nebulosas | Una ciudad y un barco del End |
-| ![Bosque de coros](fotos/end/bosque-de-coros.png) | |
+| ![Bosque de coros](fotos/end/bosque-de-coros.jpg) | |
 | Flores de coro brillando de noche | |
 
 ---
@@ -80,6 +80,7 @@ Tu configuración se guarda en `.minecraft\shaderpacks\NoName-Shader.txt`.
 NoName-Shader/
 ├── README.md               este archivo
 ├── LICENSE                 licencia MIT
+├── CHANGELOG.md            cambios de cada versión
 ├── fotos/                  capturas de la galería (superficie, interiores, nether, end)
 └── shaders/
     ├── shaders.properties  menús, perfiles, uniforms propios (clima, biomas, amanecer...)
