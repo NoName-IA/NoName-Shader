@@ -66,7 +66,7 @@ En el menú del shader puedes elegir la calidad: **Bajo**, **Medio** o **Máximo
 
 ## Créditos
 
-Basado en el mi vision del minecraft, lol ;p
+Basado en mi vision del minecraft, lol ;p
 
 ## Licencia
 
