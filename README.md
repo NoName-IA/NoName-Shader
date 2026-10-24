@@ -18,8 +18,12 @@ En el menú del shader puedes elegir la calidad: **Bajo**, **Medio** o **Máximo
 
 ## Requisitos
 
-- Minecraft **26.1.2** con **Fabric**
-- **Iris** y **Sodium** (no funciona con OptiFine)
+Funciona con cualquiera de los dos:
+
+- **Iris** + **Sodium** con Fabric (recomendado; probado en Minecraft **26.1.2**)
+- **OptiFine**
+
+Con OptiFine faltan algunos detalles que solo Iris permite: el destello de los rayos en el cielo y el barco que se mece con las olas de tormenta.
 
 ## Galería
 

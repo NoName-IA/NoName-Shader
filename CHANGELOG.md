@@ -1,5 +1,9 @@
 # Cambios
 
+## 2026-10-24
+
+- Compatible con OptiFine además de Iris. En OptiFine no están el destello de los rayos ni el barco que se mece con las olas de tormenta.
+
 ## v1.0 — 2026-10-20
 
 Primera versión publicada.
